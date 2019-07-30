@@ -1,4 +1,4 @@
-import * as actionTypes from './Action';
+import * as actionTypes from '../Actions/ActionTypes';
 
 const initialState = {
     ingredients: {
